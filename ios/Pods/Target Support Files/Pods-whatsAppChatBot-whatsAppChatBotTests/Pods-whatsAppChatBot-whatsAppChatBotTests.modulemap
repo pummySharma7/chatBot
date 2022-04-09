@@ -1,0 +1,6 @@
+module Pods_whatsAppChatBot_whatsAppChatBotTests {
+  umbrella header "Pods-whatsAppChatBot-whatsAppChatBotTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
